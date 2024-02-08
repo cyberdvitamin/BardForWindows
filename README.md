@@ -5,3 +5,5 @@ Steps to use:
 2. if you don't already have installed or if it gives any errors about the font, please install the font provided in the assets folder
 
 Thank you for using BardForWindows!
+
+Sadly I have to announce that this project is now invalid since Gemini just replaced Bard and everything changed. This project will continue under other name "GeminiForWindows".
